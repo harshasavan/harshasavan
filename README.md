@@ -1,182 +1,101 @@
-# 👋 Hi, I'm Harsha
+<div align="center">
 
-### 💻 Web Developer | Student | Technology Enthusiast
+# 👋 Hi there, I'm Harsha!
 
-Welcome to my GitHub profile! I'm **Harsha**, a passionate learner and aspiring web developer who enjoys creating websites, web applications, and useful digital tools.
+### 🚀 Web Developer | Student | Technology Enthusiast
 
-I like turning ideas into real projects and continuously improving my skills by building practical applications.
+**I build responsive websites, web applications & useful digital tools.**
 
----
+<br>
 
-## 👨‍💻 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=harshasavan\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
-* 🎓 I am a student interested in **Computer Science and Web Development**
-* 💻 I enjoy developing **websites and web applications**
-* 🌱 Currently improving my skills in **HTML, CSS, JavaScript and PHP**
-* 🚀 I enjoy creating projects from scratch
-* 🎨 Interested in **modern UI/UX and responsive web design**
-* 🔐 Interested in building applications with **login and authentication systems**
-* 🗄️ Learning how websites communicate with databases and store information
-* 🧩 I enjoy solving programming and development problems
-* 📚 Always interested in learning new technologies
-* 🎯 My goal is to become a skilled **Full-Stack Web Developer**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/harshasavan)
+
+</div>
 
 ---
 
-## 🛠️ My Technical Skills
+## 👨‍💻 Professional Summary
 
-### 🌐 Frontend
+### 💻 Full-Stack Web Developer
 
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
-* Modern UI Design
-* Website Animations
+I'm **Harsha**, a student and aspiring Full-Stack Developer passionate about creating **modern, responsive and user-friendly web applications**.
 
-### ⚙️ Backend
-
-* PHP
-* MySQL
-* JSON
-* Authentication Systems
-* Session Management
-
-### 🔧 Tools
-
-* Git
-* GitHub
-* Visual Studio Code
-* XAMPP
-* Chrome Developer Tools
+I enjoy turning ideas into real projects while continuously learning new technologies and improving my development skills.
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-### 🎓 College Website
+<p align="left">
 
-A responsive college website designed to provide information about courses, campus, departments, admissions and contact information.
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-**Technologies:** HTML, CSS, JavaScript
+<br>
 
----
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
 
-### 🔐 Password Generator
-
-A web application that generates secure passwords and includes user login functionality and password management.
-
-**Technologies:** HTML, CSS, JavaScript, PHP
-
----
-
-### 📇 Contact Manager
-
-A contact management application where users can add, edit, view, search and delete contacts.
-
-**Technologies:** PHP, HTML, CSS, JavaScript, JSON
+</p>
 
 ---
 
-### 🚗 Rental Car Website
+## 🚀 Featured Projects
 
-A car rental website featuring vehicle listings, car images and rental-related information.
-
-**Technologies:** PHP, HTML, CSS, JavaScript
-
----
-
-### 🧰 Online Web Toolbox
-
-A collection of useful online tools such as image compression, image resizing, image conversion and other utilities.
-
-**Technologies:** HTML, CSS, JavaScript
+| Project                   | Description                               |
+| :------------------------ | :---------------------------------------- |
+| 🎓 **College Website**    | Responsive college website with modern UI |
+| 🔐 **Password Generator** | Secure password generation & management   |
+| 📇 **Contact Manager**    | Contact management system with PHP & JSON |
+| 🚗 **Rental Car Website** | Car listing and rental website            |
+| 🧰 **Web Toolbox**        | Collection of useful online web tools     |
 
 ---
 
-## 💡 What I Like Building
+## 🌱 Currently Learning
 
-I enjoy building:
-
-* 🌐 Responsive websites
-* 📱 Mobile-friendly web applications
-* 🔐 Login and authentication systems
-* 🗄️ Database-driven applications
-* 🛠️ Online tools
-* 🎨 Modern user interfaces
-* ⚡ Simple and useful productivity applications
+`JavaScript` `PHP` `MySQL` `Git & GitHub` `AI` `AI Agents`
 
 ---
 
-## 🎯 My Goals
+## 🎯 My Goal
 
-My current goals are to:
-
-* 📖 Improve my programming knowledge
-* 💻 Become a better full-stack developer
-* 🚀 Build larger real-world projects
-* 🗄️ Learn more about databases and backend development
-* 🤖 Explore Artificial Intelligence and AI agents
-* ☁️ Learn deployment and cloud technologies
-* 🤝 Contribute to open-source projects
-* 🌍 Build applications that are useful to other people
+> **Become a professional Full-Stack Developer and build useful real-world applications. 🚀**
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Stats
 
-```text
-HTML              ████████████████████ 100%
-CSS               ██████████████████░░  90%
-JavaScript        ████████████████░░░░  80%
-PHP               ██████████████░░░░░░  70%
-MySQL             ████████████░░░░░░░░  60%
-Git & GitHub      ███████████████░░░░░  75%
-AI Development    ██████████░░░░░░░░░░  50%
-```
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=harshasavan&show_icons=true&theme=tokyonight&hide_border=true" height="165">
 
-## 🌟 My Development Philosophy
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshasavan&layout=compact&theme=tokyonight&hide_border=true" height="165">
 
-> **Learn → Build → Improve → Repeat**
-
-I believe the best way to learn programming is by building real projects, solving problems and continuously improving what I create.
-
----
-
-## 📈 My GitHub Journey
-
-I use GitHub to:
-
-* 📂 Store my projects
-* 🔄 Track my development progress
-* 🧪 Experiment with new ideas
-* 📚 Learn from other developers
-* 🚀 Share my work with the developer community
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning, collaborating and working on interesting projects.
+<div align="center">
 
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+**💻 GitHub:** [@harshasavan](https://github.com/harshasavan)
 
-🐙 **GitHub:** [@harshasavan](https://github.com/harshasavan)
+**📧 Email:** `your-email@example.com`
 
----
+<br>
 
-## ⚡ Fun Fact
+### ⭐ Thanks for visiting my profile!
 
-💡 I enjoy taking an idea and turning it into a working website or application.
+**Keep Learning • Keep Building • Keep Growing 🚀**
 
----
-
-## ⭐ Thanks for Visiting!
-
-Thanks for checking out my GitHub profile!
-
-If you find any of my projects useful, consider giving them a ⭐.
-
-**Keep learning. Keep building. Keep improving. 🚀**
+</div>
