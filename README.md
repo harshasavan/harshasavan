@@ -160,14 +160,16 @@ A collection of useful browser-based tools.
 
 # 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshasavan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshasavan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshasavan&layout=compact&theme=tokyonight&hide_border=true" height="180">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshasavan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshasavan&theme=tokyonight&hide_border=true" width="70%">
+</p>
 ---
 
 # 🔥 My Focus
